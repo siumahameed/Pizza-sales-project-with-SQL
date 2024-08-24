@@ -8,4 +8,4 @@ hut’s sales using SQL, cleaned it up and found some neat insights.
 We learned a lot and can’t wait to use our newfound skills in 
 future projects. Thanks to everyone involved for a great experience!
 If you have any questions or would like to discuss this project further, feel free to reach out to me. 
-![Uploading image.png…]()
+
